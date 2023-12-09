@@ -7,10 +7,7 @@ A TikTokBot that View tiktok video
 ## TikTok Run
 
 ```bash
- git clone https://github.com/namastehacing/TikTok-Buff-View-V1.0
-```
-```bash
- cd /sdcard/download && python cyraxmod.py
+ cd /sdcard/download && python cyraxmod1.0.py
 ```
 ```sh
 Thanks you for subscribe me
